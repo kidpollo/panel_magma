@@ -14,7 +14,13 @@ Javier "Pjax" Cervantes
 
 Por el titulo super "Geek"
 
-## Ventajas <- quizá mejor que sean características, no?
+(comentario general. Si hacemos slides hay que hacerlos en Inglés y que el panel sea en Español. Como ven?)
+
+## Caracteríticas y Ventajas
+
+### Arquitectura
+#### Single-Page Application (SPA)
+#### Multi-Page Web Applications (MPA)
 
 ### SEO
 
@@ -28,7 +34,11 @@ Por el titulo super "Geek"
 
 ### Compatibilidad con browsers
 
+### Consumo en dispositivos moviles y otros
+
 ## Uso
+
+### Madurez/Ecosystem
 
 ### Comunidad
 
