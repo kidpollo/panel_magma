@@ -7,10 +7,16 @@ El primer panel Magma será un evento espectacular AAA presenta.
 Edwin "el ardilla" Emberosio Cruz.
 Paco "Angularcito" Viramontes
 
+Referi por el lado de los Grandes Técnicos:
+Fede "Gran Scripto" Soria
+
 VS
 
 Manuel "El Gran Omakase" Vidaurre 
 Javier "Pjax" Cervantes
+
+Referi por el lado de los RUDOs (Ruby DOminates):
+Ismael "Multi Rules" Marin
 
 Por el titulo super "Geek"
 
