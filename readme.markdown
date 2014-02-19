@@ -65,3 +65,15 @@ Por el titulo super "Geek"
 ### Turbolinks
 
 ### El punto medio
+
+## Debugging
+
+### Tracking errors en modo producción
+
+## Persistencia de datos
+
+### REST
+
+### Multiple recursos a la vez
+
+### Bulk Update
