@@ -30,6 +30,14 @@ Por el titulo super "Geek"
 
 ### SEO
 
+### Persistencia de datos
+
+#### REST
+
+#### Multiple recursos a la vez
+
+#### Bulk Update
+
 ### Historial (del browser)
 
 ### Uso "offline"
@@ -43,6 +51,10 @@ Por el titulo super "Geek"
 ### Consumo en dispositivos moviles y otros
 
 ## Uso
+
+### Debugging
+
+### Tracking errors en modo producción
 
 ### Madurez/Ecosystem
 
@@ -65,15 +77,3 @@ Por el titulo super "Geek"
 ### Turbolinks
 
 ### El punto medio
-
-## Debugging
-
-### Tracking errors en modo producción
-
-## Persistencia de datos
-
-### REST
-
-### Multiple recursos a la vez
-
-### Bulk Update
