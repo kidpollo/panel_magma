@@ -66,8 +66,6 @@ Por el titulo super "Geek"
 
 ### Curva de aprendizaje
 
-### Casos de uso
-
 ## Futuro
 
 ### ReactJS
