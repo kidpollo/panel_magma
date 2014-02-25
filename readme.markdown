@@ -75,3 +75,17 @@ Por el titulo super "Geek"
 ### Turbolinks
 
 ### El punto medio
+
+## Fights
+
+### HTML Render, server side vs client side
+
+### SPA vs MPA
+
+### Responsiveness vs layouts per screen size(devise)
+
+### NoSQL documentos indexados vs map reduce (mongodb approach vs riak approach)
+
+### Fixtures vs Fabricates
+
+### PaaS vs Own infrastructure (heroku vs bare metal servers)
