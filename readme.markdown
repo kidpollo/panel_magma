@@ -76,16 +76,20 @@ Por el titulo super "Geek"
 
 ### El punto medio
 
-## Fights
+# CAIDAS
 
-### HTML Render, server side vs client side
+## Primera
+### SPA (Techs) vs MPA (Rudos Javier)
+### HTML Render, server side (Rudos Manuel) vs client side (Techs) 
 
-### SPA vs MPA
+## Segunda
+### TDD / Fabricates (Techs)  vs Integration with Capybara Fixtures  (Rudos Manuel)  
+### ActiveRecord (Rudos Javier)  vs Pure Models  and Repository/DataMapper Patterns (Techs) 
 
-### Responsiveness vs layouts per screen size(devise)
+## Tercera
+### Arquitectura: Full Rails  (Rudos Javier) vs API / fat clients (Techs) 
+### Convensions/Defaults  (Rudos Manuel) vs Tailord made  (Techs) 
 
-### NoSQL documentos indexados vs map reduce (mongodb approach vs riak approach)
-
-### Fixtures vs Fabricates
-
+## Extras
 ### PaaS vs Own infrastructure (heroku vs bare metal servers)
+### Responsiveness vs layouts per screen size(devise)
