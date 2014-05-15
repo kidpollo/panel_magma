@@ -79,17 +79,46 @@ Por el titulo super "Geek"
 # CAIDAS
 
 ## Primera
-### SPA (Techs) vs MPA (Rudos Javier)
-### HTML Render, server side (Rudos Manuel) vs client side (Techs) 
+### SPA (Techs Paco) vs MPA (Rudos Javier)
+### HTML Render, server side (Rudos Manuel) vs client side (Techs Edwin) 
 
 ## Segunda
-### TDD / Fabricates (Techs)  vs Integration with Capybara Fixtures  (Rudos Manuel)  
-### ActiveRecord (Rudos Javier)  vs Pure Models  and Repository/DataMapper Patterns (Techs) 
+### TDD / Fabricates (Techs Paco)  vs Integration with Capybara Fixtures  (Rudos Manuel)  
+### ActiveRecord (Rudos Javier)  vs Pure Models  and Repository/DataMapper Patterns (Techs Edwin) 
 
 ## Tercera
-### Arquitectura: Full Rails  (Rudos Javier) vs API / fat clients (Techs) 
-### Convensions/Defaults  (Rudos Manuel) vs Tailord made  (Techs) 
+### Arquitectura: Full Rails  (Rudos Javier) vs API / fat clients (Techs Edwin) 
+### Convensions/Defaults  (Rudos Manuel) vs Tailord made  (Techs Paco) 
 
 ## Extras
 ### PaaS vs Own infrastructure (heroku vs bare metal servers)
 ### Responsiveness vs layouts per screen size(devise)
+
+
+# Logistica
+## Agenda
+  1. Presentación de Luchadores (1 minuto) -- Ismael hace propuesta
+  1. Presentación de dinámica, app twitter, cinturon edición especial, rapada  (1 minuto) -- Fede hace propuesta
+  1. Pregunta pública inicial para debate Primera Caida (30 segundos)  -- Fede e Ismael se ponen de acuerdo
+  1. Pelea y respuesta de los bandos (2 minutos por bando)  -- Con el liderazgo establecido presentan su defensa
+  1. Pregunta secreta debate Primera Caida (30 segundos)  -- Fede e Ismael se ponen de acuerdo
+  1. Pelea y respuesta de los bandos (2 minutos por bando)  -- Con el liderazgo establecido presentan su defensa
+  1. Anuncio de quien gano la Primera caida por votos en Twitter (30 segundos)  -- Fede e Ismael se ponen de acuerdo
+  1. Pregunta pública para debate Segunda Caida (30 segundos)  -- Fede e Ismael se ponen de acuerdo
+  1. Pelea y respuesta de los bandos (2 minutos por bando)  -- Con el liderazgo establecido presentan su defensa
+  1. Pregunta secreta debate Segunda Caida (30 segundos)  -- Fede e Ismael se ponen de acuerdo
+  1. Pelea y respuesta de los bandos (2 minutos por bando)  -- Con el liderazgo establecido presentan su defensa
+  1. Anuncio de quien gano la Segunda caida por votos en Twitter (30 segundos)  -- Fede e Ismael se ponen de acuerdo
+  1. Pregunta pública para debate Tercera Caida (30 segundos)  -- Fede e Ismael se ponen de acuerdo
+  1. Pelea y respuesta de los bandos (2 minutos por bando)  -- Con el liderazgo establecido presentan su defensa
+  1. Pregunta secreta debate Tercera Caida (30 segundos)  -- Fede e Ismael se ponen de acuerdo
+  1. Pelea y respuesta de los bandos (2 minutos por bando)  -- Con el liderazgo establecido presentan su defensa
+  1. Anuncio de quien gano la Tercera caida por votos en Twitter (30 segundos)  -- Fede e Ismael se ponen de acuerdo
+  1. Preguntas y respuestas (8 minutos)   -- Responde a quien vaya dirigida la pregunta
+  1. Anuncio de quien gano la Pelea con todo y las preguntas y respuestas (30 segundos)  -- Fede e Ismael se ponen de acuerdo
+  1. Entrega de cinturon especial de campeones y rapado de los perdedores  (1 minuto)  -- Fede e Ismael se ponen de acuerdo
+
+## Formato
+  * Parados con liderazgo por tema de acuerdo a distribución y con relevo dando palmada
+  * Tatuajes con tinta hena
+  * Preguntas publicas conocidas con anterioridad por los bandos y las privadas son sorpresa para ellos
