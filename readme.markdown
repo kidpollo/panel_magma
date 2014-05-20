@@ -79,20 +79,19 @@ Por el titulo super "Geek"
 # CAIDAS
 
 ## Primera
-### SPA (Techs Paco) vs MPA (Rudos Javier)
+### Arquitecture:  API / fat clients and SPA (Techs Paco) vs Full Rails and MPA (Rudos Javier)
 ### HTML Render, server side (Rudos Manuel) vs client side (Techs Edwin) 
 
 ## Segunda
-### TDD / Fabricates (Techs Paco)  vs Integration with Capybara Fixtures  (Rudos Manuel)  
-### ActiveRecord (Rudos Javier)  vs Pure Models  and Repository/DataMapper Patterns (Techs Edwin) 
+### BDD/TDD and Fabricates (Techs Paco)  vs Integration with Capybara Fixtures  (Rudos Manuel)  
+### ActiveRecord (Rudos Javier)  vs Pure Models and DataMapper Patterns (Techs Edwin) 
 
 ## Tercera
-### Arquitectura: Full Rails  (Rudos Javier) vs API / fat clients (Techs Edwin) 
+### PaaS (heroku/[peas][peas] Rudos Javier) vs Own infrastructure in the Cloud (bare metal servers/chef/puppet Techs Edwin)
 ### Convensions/Defaults  (Rudos Manuel) vs Tailord made  (Techs Paco) 
 
 ## Extras
-### PaaS vs Own infrastructure (heroku vs bare metal servers)
-### Responsiveness vs layouts per screen size(devise)
+### Responsiveness vs layouts per screen size (devices)
 
 
 # Logistica
@@ -116,9 +115,38 @@ Por el titulo super "Geek"
   1. Anuncio de quien gano la Tercera caida por votos en Twitter (30 segundos)  -- Fede e Ismael se ponen de acuerdo
   1. Preguntas y respuestas (8 minutos)   -- Responde a quien vaya dirigida la pregunta
   1. Anuncio de quien gano la Pelea con todo y las preguntas y respuestas (30 segundos)  -- Fede e Ismael se ponen de acuerdo
-  1. Entrega de cinturon especial de campeones y rapado de los perdedores  (1 minuto)  -- Fede e Ismael se ponen de acuerdo
+  1. Entrega de cinturon especial de campeones y rapado de los perdedores - barbas contra bigotes  (1 minuto)  -- Fede e Ismael se ponen de acuerdo
 
 ## Formato
   * Parados con liderazgo por tema de acuerdo a distribución y con relevo dando palmada
   * Tatuajes con tinta hena
   * Preguntas publicas conocidas con anterioridad por los bandos y las privadas son sorpresa para ellos
+  * Pelearan por el cinturon edición especial de MagmaConf y barbas contra bigotes
+
+# Preparativos
+## Reuniones
+### 2014-05-19
+#### Asistentes
+    * Fede
+    * Javier
+    * Paco
+    * Manuel
+#### Revisión y Acuerdos
+  * Se reorganizaron los temas, fusionandose los más parecidos y se incluyo uno de los extras en la tercera caída.
+  * Se discutió lo de si TDD debería ser Omakase o por TDD is Dead no debería ser Omakase
+  * Se acordó que la rapada será de barbas y/o bigotes. Aunque sería padre llegar barbones todos
+
+## Tareas
+### 2014-05-19
+  * Ismael: Presentación de Luchadores y preguntas
+  * Fede: app twitter y preguntas
+  * Javier, Paco, Edwin y Manuel: preparar primera caida por lo menos
+  * Manuel: comunicar a Esteban sobre los requerimientos
+
+## Agenda Proxima Reunión
+### 2014-05-23
+  1. Ismael: Propuesta de Presentación de Luchadores 
+  1. Fede: Presentación de app twitter
+  1. Ensayo de primera caida 
+
+  [peas]: https://github.com/tombh/peas "PaaS for the People" 
