@@ -83,7 +83,8 @@ Por el titulo super "Geek"
 ### HTML Render, server side (Rudos Manuel) vs client side (Techs Edwin) 
 
 ## Segunda
-### BDD/TDD and Fabricates (Techs Paco)  vs Integration with Capybara Fixtures  (Rudos Manuel)  
+### BDD/TDD and Fabricates (Techs Manuel)  vs Integration with Capybara Fixtures  (Rudos PAco)
+Si no hay inconveniente yo (paco) prefiero que TDD sea rudo! (26 de Mayo)
 ### ActiveRecord (Rudos Javier)  vs Pure Models and DataMapper Patterns (Techs Edwin) 
 
 ## Tercera
