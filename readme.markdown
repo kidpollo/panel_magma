@@ -91,9 +91,18 @@ Por el titulo super "Geek"
 * Hay mas gemas y plugins para apps vanilla Rails pero una app basada en API's tiene mucha mas flexibilidad.
 * Una app monolitica tiende a hacerce lenta y hacerla mas rapida complica la arquitectura mas y mas y mas.
 * El desarrollo de apps con "Thick clients" requiere de un equipo mas experimentado y tiene una curva de aprendizaje mas alta.
-* Bonus! React JS Rulea!!!!
 
-### HTML Render, server side (Rudos Manuel) vs client side (Techs Edwin) 
+### HTML Render, server side (Rudos Manuel) vs client side (Techs Edwin)
+
+* Es lento en el servidor pero ligero para los clientes.
+* Hay mas problemas de compatibilidad.
+* Exploradores viejos y compus lentas les cuesta mucho mas trabajo hacer el rendering del DOM.
+* EL DOM ES LEEEEEENTOOOOO porque los años de falta de estandares y lo complejo de las implementaciones de CSS.
+* Server side es mas para layouts sencillos sin mucha interactividad.
+* Implementar cuestiones altamente interactivas con server-side rendering es incomodo, raro, monstruoso etc.
+* En "client side rendering" (por lo general) se duplica logica de negocios, validaciones etc.
+* La logica de negocios en un server side render acopla la vista con el modelo (por lo general).
+* Realct JS rulea! (http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 
 ## Segunda
 ### BDD/TDD and Fabricates (Techs Manuel)  vs Integration with Capybara Fixtures  (Rudos PAco)
