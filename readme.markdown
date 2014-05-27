@@ -124,6 +124,15 @@ Ya no estoy tan seguro si el TDD es rudo o tecnico :S (26 de Mayo mas tarde)
 ### PaaS (heroku/[peas][peas] Rudos Javier) vs Own infrastructure in the Cloud (bare metal servers/chef/puppet Techs Edwin)
 ### Convensions/Defaults  (Rudos Manuel) vs Tailord made  (Techs Paco) 
 
+* Las convensiones ayudan a la coaboracion.
+* Es mas sencillo introducir gente nueva a un proyecto (Onboarding)
+* Es mas facil innovar (salirse del molde) cuando la app es a la medida
+* No todas las conveciones aplican para todos los proyectos
+* El "boilerplate" es pura basura que alenta una aplicacion
+* Una aplicacion tailor made requiere de mas atencion a cosas ya resueltas.
+* Es muy facil querer reinventar la rueda todo el tiempo y por tanto perder tiempo y dinero del cliente o desarrollo de producto.
+* Actualizar una app basada en convensiones es muy dificil si las API's y convensiones cambian.
+
 ## Extras
 ### Responsiveness vs layouts per screen size (devices)
 
