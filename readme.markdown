@@ -79,7 +79,20 @@ Por el titulo super "Geek"
 # CAIDAS
 
 ## Primera
-### Arquitecture:  API / fat clients and SPA (Techs Paco) vs Full Rails and MPA (Rudos Javier)
+### Arquitecture:  API + JS Thick client (Techs Paco) vs Full Rails MVC (Rudos Javier)
+
+* Los servicios en una API se pueden separar y escalar mas rapido y con menos costo a largo plazo.
+* A corto plazo una app full Rails stack es mucho mas rapido llegar a un MVC.
+* A largo plazo una app full Rails se vuelve monolitica, dificil de mantener y escalar.
+* Reemplazae secciones de un API/Frontend es mas facil.
+* La organizacion del trabajo puede ser mas facil en una app monolitica, no hay tanto problemas de versiones pero tambien tiene sus desventajas.
+* El deployment puede ser mas facil en una app monolitica.
+* Con una app Rails clasica tienes muchas cosas resueltas que no tienes que pensar: Cookies, Seguridad etc.
+* Hay mas gemas y plugins para apps vanilla Rails pero una app basada en API's tiene mucha mas flexibilidad.
+* Una app monolitica tiende a hacerce lenta y hacerla mas rapida complica la arquitectura mas y mas y mas.
+* El desarrollo de apps con "Thick clients" requiere de un equipo mas experimentado y tiene una curva de aprendizaje mas alta.
+* Bonus! React JS Rulea!!!!
+
 ### HTML Render, server side (Rudos Manuel) vs client side (Techs Edwin) 
 
 ## Segunda
