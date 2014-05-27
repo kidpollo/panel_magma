@@ -107,6 +107,17 @@ Por el titulo super "Geek"
 ## Segunda
 ### BDD/TDD and Fabricates (Techs Manuel)  vs Integration with Capybara Fixtures  (Rudos PAco)
 Si no hay inconveniente yo (paco) prefiero que TDD sea rudo! (26 de Mayo)
+Ya no estoy tan seguro si el TDD es rudo o tecnico :S (26 de Mayo mas tarde)
+
+* TDD esta muerto! Lo dijo DHH
+* Las pruebas de integracion te dan pas por tu dinero (esfuerzo)
+* Las pruebas de integracion son lentas?
+* Las pruebas unitarias prueban de mas y se llenan de polvo facilmente?
+* Las pruebas de integracion son "brittle"?
+* "Prueba lo que tiene sentido de probar" VS "Prueba todo por si las moscas"
+* Prueba pimero == "Me pongo esposas y limito mis implementaciones" 
+* Prueba despues == "Mejor hagamos que esto funcione y no hay pedo porque soy un chingon"
+
 ### ActiveRecord (Rudos Javier)  vs Pure Models and DataMapper Patterns (Techs Edwin) 
 
 ## Tercera
