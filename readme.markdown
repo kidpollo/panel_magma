@@ -86,7 +86,7 @@ Por el titulo super "Geek"
 * A largo plazo una app full Rails se vuelve monolitica, dificil de mantener y escalar.
 * Reemplazae secciones de un API/Frontend es mas facil.
 * La organizacion del trabajo puede ser mas facil en una app monolitica, no hay tanto problemas de versiones pero tambien tiene sus desventajas.
-* El deployment puede ser mas facil en una app monolitica.
+* El deployment puede ser mas fácil en una app monolítica.
 * Con una app Rails clasica tienes muchas cosas resueltas que no tienes que pensar: Cookies, Seguridad etc.
 * Hay mas gemas y plugins para apps vanilla Rails pero una app basada en API's tiene mucha mas flexibilidad.
 * Una app monolitica tiende a hacerce lenta y hacerla mas rapida complica la arquitectura mas y mas y mas.
@@ -193,3 +193,14 @@ Ya no estoy tan seguro si el TDD es rudo o tecnico :S (26 de Mayo mas tarde)
   1. Ensayo de primera caida 
 
   [peas]: https://github.com/tombh/peas "PaaS for the People" 
+
+## Oreguntas de los Referi
+### Primer Caída
+  * ¿Problemas comunes de estabilidad y mantenimiento? 
+  * ¿Cuál es más rápida?
+### Segunda Caída
+  * ¿Realmente crees que TDD esta muerto?
+  * ¿Cuando es más optima implementar alguna de estas (ActiveRecord vs DataMapper)?
+### Tercer Caída
+  * ¿En cuanto costos cuando es más conveniente utilizar alguna de estas?
+  * ¿Cuanto tiempo comúnmente se requiere en ambas soluciones para una persona poder integrarse al código del proyecto?
