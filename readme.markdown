@@ -105,7 +105,7 @@ Por el titulo super "Geek"
 * Realct JS rulea! (http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 
 ## Segunda
-### BDD/TDD and Fabricates (Techs Manuel)  vs Integration with Capybara Fixtures  (Rudos PAco)
+### BDD/TDD and Fabricates (Rudos Manuel)  vs Integration with Capybara Fixtures  (Techs PAco)
 Si no hay inconveniente yo (paco) prefiero que TDD sea rudo! (26 de Mayo)
 Ya no estoy tan seguro si el TDD es rudo o tecnico :S (26 de Mayo mas tarde)
 
