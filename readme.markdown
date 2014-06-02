@@ -198,9 +198,11 @@ Ya no estoy tan seguro si el TDD es rudo o tecnico :S (26 de Mayo mas tarde)
 ### Primer Caída
   * ¿Problemas comunes de estabilidad y mantenimiento? 
   * ¿Cuál es más rápida?
+
 ### Segunda Caída
   * ¿Realmente crees que TDD esta muerto?
   * ¿Cuando es más optima implementar alguna de estas (ActiveRecord vs DataMapper)?
+
 ### Tercer Caída
   * ¿En cuanto costos cuando es más conveniente utilizar alguna de estas?
   * ¿Cuanto tiempo comúnmente se requiere en ambas soluciones para una persona poder integrarse al código del proyecto?
