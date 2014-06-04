@@ -105,7 +105,7 @@ Por el titulo super "Geek"
 * Realct JS rulea! (http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 
 ## Segunda
-### BDD/TDD and Fabricates (Rudos Manuel)  vs Integration with Capybara Fixtures  (Techs PAco)
+### BDD/TDD and Fabricates (Rudos Manuel)  vs Integration with Capybara Fixtures  (Techs Paco)
 Si no hay inconveniente yo (paco) prefiero que TDD sea rudo! (26 de Mayo)
 Ya no estoy tan seguro si el TDD es rudo o tecnico :S (26 de Mayo mas tarde)
 
@@ -192,17 +192,24 @@ Ya no estoy tan seguro si el TDD es rudo o tecnico :S (26 de Mayo mas tarde)
   1. Fede: Presentación de app twitter
   1. Ensayo de primera caida 
 
-  [peas]: https://github.com/tombh/peas "PaaS for the People" 
-
-## Oreguntas de los Referi
+## Preguntas de los Referi
 ### Primer Caída
+#### Arquitecture:  API + JS Thick client (Techs Paco) vs Full Rails MVC (Rudos Javier)
+#### HTML Render, server side (Rudos Manuel) vs client side (Techs Edwin)
   * ¿Problemas comunes de estabilidad y mantenimiento? 
   * ¿Cuál es más rápida?
 
 ### Segunda Caída
+#### BDD/TDD and Fabricates (Rudos Manuel)  vs Integration with Capybara Fixtures  (Techs Paco)
+#### ActiveRecord (Rudos Javier)  vs Pure Models and DataMapper Patterns (Techs Edwin) 
   * ¿Realmente crees que TDD esta muerto?
   * ¿Cuando es más optima implementar alguna de estas (ActiveRecord vs DataMapper)?
 
 ### Tercer Caída
+#### PaaS (heroku/[peas][peas] Rudos Javier) vs Own infrastructure in the Cloud (bare metal servers/chef/puppet Techs Edwin)
+#### Convensions/Defaults  (Rudos Manuel) vs Tailord made  (Techs Paco) 
   * ¿En cuanto costos cuando es más conveniente utilizar alguna de estas?
   * ¿Cuanto tiempo comúnmente se requiere en ambas soluciones para una persona poder integrarse al código del proyecto?
+
+
+[peas]: https://github.com/tombh/peas "PaaS for the People" 
